@@ -1,0 +1,15 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+npm info using npm@11.6.1
+npm info using node@v24.11.0
+npm verbose title npm install
+npm verbose argv "install" "--loglevel" "verbose" "--no-audit" "--no-fund"
+npm verbose logfile logs-max:10 dir:C:\Users\Sudha Ashok\AppData\Local\npm-cache\_logs\2025-12-01T08_02_06_022Z-
+npm verbose logfile C:\Users\Sudha Ashok\AppData\Local\npm-cache\_logs\2025-12-01T08_02_06_022Z-debug-0.log
+
+up to date in 1s
+npm verbose cwd C:\Node\RestAPI
+npm verbose os Windows_NT 10.0.19045
+npm verbose node v24.11.0
+npm verbose npm  v11.6.1
+npm verbose exit 0
+npm info ok
